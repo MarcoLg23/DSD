@@ -1,0 +1,5 @@
+¿Cuál de estas características no pertenece a un objeto en tiempo de ejecución?
+A. Facilitan la creación de aplicaciones distribuidas
+B. A veces es necesario utilizar un adaptador de objeto
+C. Es independiente de un solo lenguaje de programación
+D. Los objetos se definen únicamente en funcion de las interfaces que implementan
